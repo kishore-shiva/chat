@@ -236,7 +236,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton2.setBackground(java.awt.Color.black);
         jButton2.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton2.setOpaque(true);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton2ActionPerformed(evt);
@@ -252,7 +251,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton3.setBackground(java.awt.Color.black);
         jButton3.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton3.setOpaque(true);
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
@@ -268,7 +266,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton4.setBackground(java.awt.Color.black);
         jButton4.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton4.setOpaque(true);
         jButton4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton4ActionPerformed(evt);
@@ -284,7 +281,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton5.setBackground(java.awt.Color.black);
         jButton5.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton5.setOpaque(true);
         jButton5.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton5ActionPerformed(evt);
@@ -300,7 +296,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton6.setBackground(java.awt.Color.black);
         jButton6.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton6.setOpaque(true);
         jButton6.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton6ActionPerformed(evt);
@@ -316,7 +311,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton7.setBackground(java.awt.Color.black);
         jButton7.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton7.setOpaque(true);
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);
@@ -332,7 +326,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton8.setBackground(java.awt.Color.black);
         jButton8.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton8.setOpaque(true);
         jButton8.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton8ActionPerformed(evt);
@@ -348,7 +341,6 @@ public class TicTacToeFrame extends javax.swing.JFrame {
 
         jButton9.setBackground(java.awt.Color.black);
         jButton9.setFont(new java.awt.Font("Ubuntu", 1, 100)); // NOI18N
-        jButton9.setOpaque(true);
         jButton9.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton9ActionPerformed(evt);
